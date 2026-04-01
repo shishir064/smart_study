@@ -21,7 +21,7 @@
       <nav class="md:ml-auto flex flex-wrap items-center text-base justify-center">
         <ul class="hidden md:flex">
           <li>
-            <a id="hometop" class=" mr-5 hover:text-gray-900" href="index.html">Home</a>
+            <a id="hometop" class=" mr-5 hover:text-gray-900" href="index.php">Home</a>
           </li>
           <li>
             <a id="abouttop" class="mr-5 hover:text-gray-900" href="#about">About</a>
@@ -32,7 +32,7 @@
         </ul>
 
         <a class="hidden md:inline-flex items-center bg-gray-100 border-0 mr-3 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
-          href="./src/signUp.html">
+          href="./src/signUp.php">
           Sing Up
         </a>
         <a class="hidden md:inline-flex items-center bg-gray-100 border-0 py-1 px-3 focus:outline-none hover:bg-gray-200 rounded text-base mt-4 md:mt-0"
@@ -156,12 +156,12 @@
           </div>
 
           <div class="p-4 bg-white rounded-xl shadow hover:shadow-lg transition text-center">
-            <h2 class="text-2xl sm:text-3xl font-bold">830+</h2>
+            <h2 class="text-2xl sm:text-3xl font-bold">0</h2>
             <p class="text-gray-500 text-sm">Positive Reviews</p>
           </div>
 
           <div class="p-4 bg-white rounded-xl shadow hover:shadow-lg transition text-center">
-            <h2 class="text-2xl sm:text-3xl font-bold">100K</h2>
+            <h2 class="text-2xl sm:text-3xl font-bold">0</h2>
             <p class="text-gray-500 text-sm">Trusted Students</p>
           </div>
         </div>

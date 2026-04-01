@@ -32,7 +32,7 @@ include '../backend/dashboard_data.php';
                         <label for="my-drawer-5" aria-label="close sidebar" class="drawer-overlay"></label>
                         <ul class="menu bg-base-200 min-h-full w-80 p-4">
 
-                            <li class="py-2 "><a href="../index.html"><i class="ri-home-line"></i> Home</a></li>
+                            <li class="py-2 "><a href="../index.php"><i class="ri-home-line"></i> Home</a></li>
                             <li class="py-2 "><a><i class="ri-settings-3-line"></i> Settings</a></li>
                             <li>
                                 <form action="../backend/logout.php" method="POST">

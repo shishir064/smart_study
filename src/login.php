@@ -23,7 +23,7 @@
       </div>
       <button class="text-white bg-indigo-500 border-0 py-2 px-8 focus:outline-none hover:bg-indigo-600 rounded text-lg w-full cursor-pointer">Log In</button>
       </form>
-      <p class="text-md text-gray-500 mt-3">Not registered?<span class="text-blue-700 underline pl-1"><a href="signup.html">Create an account</a></span><p>
+      <p class="text-md text-gray-500 mt-3">Not registered?<span class="text-blue-700 underline pl-1"><a href="signup.php">Create an account</a></span><p>
     </div>
   </div>
   <script src="https://unpkg.com/aos@2.3.1/dist/aos.js"></script>
